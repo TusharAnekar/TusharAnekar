@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**TusharAnekar/TusharAnekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, here is what i am working/studing 👋
 
 - 🔭 I’m currently working on ... Javascript/ ReactJS
 - 🌱 I’m currently learning ... ReactJS on scrimba
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... anekar.tushar@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love Football/Soccer
--->
