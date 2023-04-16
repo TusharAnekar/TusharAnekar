@@ -1,7 +1,7 @@
 ### Hi there, here is what i am working/studing 👋
 
 - 🔭 I’m currently working on ... Javascript/ ReactJS
-- 🌱 I’m currently learning ... ReactJS on scrimba
+- 🌱 I’m currently learning ... ReactJS in neogcamp
 - 👯 I’m looking to collaborate on ... React
 - 🤔 I’m looking for help with ... ReactJS jobs.
 - 💬 Ask me about ... Anything
